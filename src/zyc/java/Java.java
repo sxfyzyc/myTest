@@ -3,7 +3,7 @@ package zyc.java;
 public class Java {
 
 	public static void main(String[] args) {
-		System.out.println("why");
+		System.out.println("why1");
 	}
 
 }
